@@ -2,3 +2,8 @@ voila
 voila-material
 bqplot
 IPython
+pandas
+ipywidgets
+traitlets
+datetime
+numpy
